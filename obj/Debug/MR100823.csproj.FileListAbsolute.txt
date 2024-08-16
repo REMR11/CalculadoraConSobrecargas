@@ -1,0 +1,7 @@
+D:\CsharpUFG\MR100823\obj\Debug\MR100823.csproj.AssemblyReference.cache
+D:\CsharpUFG\MR100823\obj\Debug\MR100823.csproj.CoreCompileInputs.cache
+D:\CsharpUFG\MR100823\bin\Debug\MR100823.exe.config
+D:\CsharpUFG\MR100823\bin\Debug\MR100823.exe
+D:\CsharpUFG\MR100823\bin\Debug\MR100823.pdb
+D:\CsharpUFG\MR100823\obj\Debug\MR100823.exe
+D:\CsharpUFG\MR100823\obj\Debug\MR100823.pdb
